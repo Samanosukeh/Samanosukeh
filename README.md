@@ -22,7 +22,7 @@
 ### Bem vindo ao meu perfil 🎨
 
 <!--- 🚀 I’m currently working at [Rocketseat](https://rocketseat.com.br/)-->
-- 🌐 <a href="https://samanosukeportfolio.netlify.app">Meu Portfólio</a> - ⚠️Em construção⚠️
+<!--- 🌐 <a href="https://samanosukeportfolio.netlify.app">Meu Portfólio</a> - ⚠️Em construção⚠️-->
 - 🐍 Django, Python, 
 -  👨🏻‍💻  Machine learning
 - 💻 Nuxtjs, JavaScript
