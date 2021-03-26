@@ -1,4 +1,4 @@
-<img alt="Portfolio" align="right" src="https://raw.githubusercontent.com/Samanosukeh/Samanosukeh/main/img/brain.png" width="280"/>
+<img alt="Portfolio" align="right" src="https://raw.githubusercontent.com/Samanosukeh/Samanosukeh/main/img/brain1.png" width="280"/>
 
 <a href="mailto:flauberth_94@hotmail.com">
 <img align="right" alt="E-mail" src="https://img.shields.io/badge/-How%20to%20reach%20me-red"/>
