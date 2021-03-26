@@ -1,4 +1,4 @@
-<img alt="Portfolio" align="right" src="https://raw.githubusercontent.com/Samanosukeh/Samanosukeh/main/img/logo1.png" width="300"/>
+<img alt="Portfolio" align="right" src="https://raw.githubusercontent.com/Samanosukeh/Samanosukeh/main/img/logo1.png" width="280"/>
 <!--<a href="https://www.linkedin.com/in/samanosuke">
 <img align="right" alt="LinkedIn" src="https://img.shields.io/badge/-Micaelli%20Medeiros-blue"/>
 </a>-->
