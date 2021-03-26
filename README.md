@@ -8,11 +8,11 @@
 <img align="right" alt="E-mail" src="https://img.shields.io/badge/-Linkedin-blue"/>
 </a>
 
+<!--
 <a href="https://samanosukeportfolio.netlify.app">
 <img align="right" alt="E-mail" src="https://img.shields.io/badge/-Portfolio-green"/>
 </a>
-
-<!--  -->
+  -->
 
 <br/>
 
