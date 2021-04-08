@@ -9,7 +9,7 @@
 </a>
 
 
-<a href="http://www.samanosuke.com.br">
+<a href="https://www.samanosuke.com.br">
 <img align="right" alt="E-mail" src="https://img.shields.io/badge/-Portfolio-green"/>
 </a>
 
