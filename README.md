@@ -26,6 +26,10 @@
 
 <br/><br/><br/><br/>
 
-<img width="60%" align="left" alt="E-mail" src="https://github-readme-stats-codestackr.vercel.app/api?username=Samanosukeh&show_icons=true&hide_border=true&theme=radical"/>
-<img width="40%" alt="E-mail" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samanosukeh&hide=TeXt&hide_border=true&layout=compact&theme=radical"/>  
+![Samanosukeh's GitHub Stats](https://github-readme-stats-codestackr.vercel.app/api?username=Samanosukeh&show_icons=true&hide_border=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Samanosukeh&hide=TeXt&hide_border=true&layout=compact&theme=radical)
 
+<div class="row">
+<img width="50%" align="left" alt="E-mail" src="https://github-readme-stats-codestackr.vercel.app/api?username=Samanosukeh&show_icons=true&hide_border=true&theme=radical"/>
+<img width="50%" alt="E-mail" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samanosukeh&hide=TeXt&hide_border=true&layout=compact&theme=radical"/>  
+</div>
