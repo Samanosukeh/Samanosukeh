@@ -24,9 +24,8 @@
 -  👨🏻‍💻  Machine learning
 - 💻 Nuxtjs, JavaScript
 
-<br/><br/><br/>
-
+<br/><br/><br/><br/><br/>
 <div>
   <img align="right" alt="E-mail" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samanosukeh&hide=TeXt&hide_border=true&layout=compact&theme=radical"/>
-  <img align="right" alt="E-mail" src="https://github-readme-stats-codestackr.vercel.app/api?username=Samanosukeh&show_icons=true&hide_border=true&theme=radical"/>
+  <img align="left" alt="E-mail" src="https://github-readme-stats-codestackr.vercel.app/api?username=Samanosukeh&show_icons=true&hide_border=true&theme=radical"/>
 </div>
