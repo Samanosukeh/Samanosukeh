@@ -22,7 +22,7 @@
 <!--- 🌐 <a href="https://samanosukeportfolio.netlify.app">Meu Portfólio</a> - ⚠️Em construção⚠️-->
 - 🐍 Django, Python, 
 -  👨🏻‍💻  Machine learning
-- 💻 Nuxtjs, JavaScript
+- 💻 Nuxt.js, Next.js
 
 <br/><br/><br/><br/>
 
