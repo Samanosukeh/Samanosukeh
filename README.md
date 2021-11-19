@@ -8,7 +8,6 @@
 <img align="right" alt="E-mail" src="https://img.shields.io/badge/-Linkedin-blue"/>
 </a>
 
-
 <a href="https://www.samanosuke.com.br">
 <img align="right" alt="E-mail" src="https://img.shields.io/badge/-Portfolio-green"/>
 </a>
