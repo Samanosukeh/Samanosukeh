@@ -91,7 +91,7 @@ I'm a Computer Scientist focused on connecting cutting-edge software engineering
 -->
 ---
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Samanosukeh&theme=react-dark)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Samanosukeh&theme=dracula)
 ---
 
 <p align="center">
